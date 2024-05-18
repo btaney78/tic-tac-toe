@@ -5,6 +5,10 @@
 **Instructions on how to run the app:**  
 To run this app you can download the following files in this repository: index.html & tiktac.js. Save them locally. Then use node to run whatever local host you have set up.
 
+**Roadmap for future improvements:**
+1. Add 'Restart game' and 'New game' buttons to the game board
+2. Highlight the winning line
+
 **License information**
 MIT License
 
